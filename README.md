@@ -13,7 +13,8 @@ This repository contains my solutions for the **Flutter projects and tasks** com
 
 * Flutter
 * Dart
-* OOP 
+* OOP
+* State Managment (Provider)
 
 ## 🎯 Purpose
 

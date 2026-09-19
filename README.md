@@ -17,6 +17,7 @@ This repository contains my solutions for the **Flutter projects and tasks** com
 * State Managment (Provider)
 * SQFlite
 * MVC
+* API
 
 ## 🎯 Purpose
 

@@ -18,6 +18,7 @@ This repository contains my solutions for the **Flutter projects and tasks** com
 * SQFlite
 * MVC
 * API
+* Hive
 
 ## 🎯 Purpose
 

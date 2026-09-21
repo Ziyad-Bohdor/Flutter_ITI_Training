@@ -19,6 +19,7 @@ This repository contains my solutions for the **Flutter projects and tasks** com
 * MVC
 * API
 * Hive
+* Firebase
 
 ## 🎯 Purpose
 

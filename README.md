@@ -14,7 +14,7 @@ This repository contains my solutions for the **Flutter projects and tasks** com
 * Flutter
 * Dart
 * OOP
-* State Managment (Provider)
+* State Managment (Provider-Bloc)
 * SQFlite
 * MVC
 * API
